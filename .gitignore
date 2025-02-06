@@ -1,1 +1,3 @@
 venv/
+.ipynb_checkpoints/
+laptop_price.csv
